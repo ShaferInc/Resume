@@ -1130,6 +1130,7 @@ call-to-action .button {
 
 
 /* contact form */
+/**
 #contact form {
    margin-bottom: 30px;
 }
@@ -1216,9 +1217,11 @@ call-to-action .button {
    left: 18px;
    top: 17px;
 }
+/*
 
 
 /* Twitter Feed */
+/*
 #twitter {
    margin-top: 12px;
    padding: 0;
@@ -1238,14 +1241,14 @@ call-to-action .button {
    color: #474747 !important;
    border: none;
 }
-
-
+/*
 /* ------------------------------------------------------------------ */
 /* i. Footer
 /* ------------------------------------------------------------------ */
 
 footer {
    padding-top: 48px;
+   padding-left: 48px;
    margin-bottom: 48px;
    color: #303030;
    font-size: 14px;
