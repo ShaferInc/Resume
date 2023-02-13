@@ -146,8 +146,8 @@ let resumeData = {
     },
     {
       "name":"Linked list and ArrayList class",
-      "description":"In highschool, I took datastructures and algorithms, and to help us understand some more difficult concpts like " +
-      "trees we were tasked with coding the linkedlist and arraylist classes based on the Oracle Java API. In addition for the arraylist class "+
+      "description":"In highschool, I took datastructures and algorithms, and to help us understand some more difficult concepts like " +
+      "trees, we were tasked with coding the linkedlist and arraylist classes based on the Oracle Java API. In addition for the arraylist class "+
       "we had to have JUnit testing with full code coverage. We later studied different algorithms for hashing, searching, sorting, flow problems, Big-O ect.",
       "imgurl":"images/portfolio/LinkedArrayList.jpg"
     },
