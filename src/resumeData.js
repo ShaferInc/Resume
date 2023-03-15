@@ -28,7 +28,7 @@ let resumeData = {
       "specialization":"IT Program",
       "MonthOfPassing":"June",
       "YearOfPassing":"2021",
-      "Achievements":"3.7 GPA, Various AP(University) Credits in Math and Computer Science"
+      "Achievements":"3.7 GPA, Various AP(University) Credits in Math and Computer Science, and a handful lacrosse awards like 1st team all state."
     }
   ],
   "work":[
