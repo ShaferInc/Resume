@@ -4,7 +4,7 @@ let resumeData = {
   "role": "software developer",
   "linkedinId":"https://www.linkedin.com/in/henry-shafer-4094b9263/",
   "skypeid": "Your skypeid",
-  "roleDescription": " I enjoy new challenges pertaining to software development, taking advantage of new tech, and occasionaly ocupying myself with whatever hobby I find interesting at the time.",
+  "roleDescription": " 🔍 What I'm Seeking: I am actively seeking a software development internship or job to apply and enhance my skills/knowledge in the IT field. I am passionate about software development, automation, and mastering the use of my computer in general. I am eager to contribute to innovative projects and make a real impact.",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -12,7 +12,7 @@ let resumeData = {
         "className":"fa fa-linkedin"
       }
     ],
-  "aboutme":"I am in my second year of the three year computer science program at Linneaus University, and I am loving the new course structure and projects. I went to highschool in Virginia, and enjoyed taking higher level courses pertaining to math and computer science. In addition, I made a real impact on the lacrosse team all 4 years. ",
+  "aboutme":"I am in my second year of the three year computer science program at Linneaus University, and I am loving the new course structure and projects. I went to highschool in Virginia, and enjoyed taking higher level courses pertaining to math and computer science. In addition, I made a real impact on the lacrosse team all 4 years. I enjoy new challenges pertaining to software development, taking advantage of new tech, and occasionaly ocupying myself with whatever hobby I find interesting at the time.",
   "address":"Sweden",
   "website":"henryshafer@gmail.com hs223nr@student.lnu.se",
   "education":[
