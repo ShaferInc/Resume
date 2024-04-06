@@ -21,14 +21,14 @@ let resumeData = {
       "specialization":"Internet of Things",
       "MonthOfPassing":"To graduate June",
       "YearOfPassing":"2024",
-      "Achievements":"Completed various courses in software development, including but not limited to: Java, Python, SQL, UML, and ARMv8."
+      "Achievements":"Completed various courses pertaining to software development: Introduction to Programming(Python), Computer Security (ISO27001), Database Technology(SQL), Object-oriented programming(Java), Discrete Mathematics, Object Oriented Analysis and Design(Java and UML), Linear Algebra(MatLab), Operating Systems(TypeScript and Multithreading), Software Design(UML), and Computer Networks(GNS3, http/TCP server)\n "
     },
     {
       "UniversityName":"Battlefield Highschool",
       "specialization":"IT Program",
       "MonthOfPassing":"June",
       "YearOfPassing":"2021",
-      "Achievements":"3.7 GPA, Various AP(University) Credits in Math and Computer Science, and a handful lacrosse awards like 1st team all state."
+      "Achievements":"Graduated with an advanced diploma, a 3.7 GPA, and various AP(University) Credits in Math and Computer Science, and a handful lacrosse awards like 1st team all state."
     }
   ],
   "work":[
@@ -37,14 +37,14 @@ let resumeData = {
       "specialization":"UI Designing and Testing",
       "MonthOfLeaving":"August",
       "YearOfLeaving":"2020",
-      "Achievements":"Learned the ropes of Github, and adequately tested a ReactJS UI per request from the lead developer and project manager."
+      "Achievements":"I helped a small team to develop a CRM for auto-shops. During this I was able to learn the ropes of Github, and tested a ReactJS UI per request from the lead developer and project manager."
     },
     {
       "CompanyName":"Smashburger",
       "specialization":"Register, Service, and Cooked",
       "MonthOfLeaving":"July",
       "YearOfLeaving":"2021",
-      "Achievements":"Just short of running a resturant in a busy area on a Friday."
+      "Achievements":"Responsible for nearly all aspects of the resturaunt, including but not limited to; taking orders, cooking, food presentation, food preperation, customer experience, and resolving customer concerns."
     }
   ],
   "skillsDescription":"Coding Language and Mastery Level",
