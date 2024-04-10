@@ -47,7 +47,6 @@ let resumeData = {
       "Achievements":"Responsible for nearly all aspects of the resturaunt, including but not limited to; taking orders, cooking, food presentation, food preperation, customer experience, and resolving customer concerns."
     }
   ],
-  "skillsDescription":"Coding Language and Mastery Level",
   "skills":[
     {
       "skillname":"Java",
