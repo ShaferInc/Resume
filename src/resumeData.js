@@ -55,72 +55,78 @@ let resumeData = {
       "skillname":"Python"
     },
     {
+      "skillname":"Model View Controller Archetecture"
+    },
+    {
       "skillname":"SQL"
+    },
+    {
+      "skillname":"Computer Security(ISO 27001)"
     },
     {
       "skillname":"ReactJS"
     },
     {
-      "skillname":"GitHub"
+      "skillname":"English",
     },
     {
-      "skillname":"ARMv8"
+      "skillname":"GitHub"
     }
   ],
   "otherskills":[
     {
-      "skillname":"-English (all aspects)",
+      "skillname":"ARMv8"
     },
     {
-      "skillname":"-Teamwork"
+      "skillname":"Teamwork"
     },
     {
-      "skillname":"-Leadership"
+      "skillname":"Leadership"
     },
     {
-      "skillname":"-Time management"
+      "skillname":"Time management"
     },
     {
-      "skillname":"-Unity (low experience)"
+      "skillname":"Unity"
     },
     {
-      "skillname":"-Haskell (low experience)"
+      "skillname":"Godot"
     },
     {
-      "skillname":"-Numpy (pertaining to graphing and machine learning)"
+      "skillname":"Unreal Engine"
     },
     {
-      "skillname":"-MatLab"
+      "skillname":"Haskell"
     },
     {
-      "skillname":"-BigO calculation"
+      "skillname":"Numpy(pertaining to graphing and machine learning)"
     },
     {
-      "skillname":"-Code coverage testing"
+      "skillname":"MatLab"
     },
     {
-      "skillname":"-Model View Controller archetecture"
+      "skillname":"BigO calculation"
     },
     {
-      "skillname":"-Computer Security (ISO 27001)"
+      "skillname":"Code coverage testing"
     },
     {
-      "skillname":"-Gradle"
+      "skillname":"Gradle"
     },
     {
-      "skillname":"-Searching and sorting algorithms"
+      "skillname":"Searching and Sorting Algorithms"
     },
     {
-      "skillname":"-UI wireframing"
+      "skillname":"UI Wireframing"
     },
     {
-      "skillname":"-Calculus"
+      "skillname":"Calculus"
     },
     {
-      "skillname":"-Statistics"
+      "skillname":"Statistics"
     },
     {
-      "skillname":"-CAD (low experience)"
+      "skillname":"CAD"
     }
   ],
   "portfolio":[
