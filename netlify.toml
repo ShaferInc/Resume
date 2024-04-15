@@ -6,7 +6,7 @@
   command = "npm run build"
 
   # Directory to publish after building
-  publish = "/opt/build/repo/build"
+  publish = "/opt/build"
 
   # Ignore warnings during the build process
   ignore_warnings = true
