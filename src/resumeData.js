@@ -19,8 +19,8 @@ let resumeData = {
     {
       "UniversityName":"Linneas University",
       "specialization":"Internet of Things",
-      "MonthOfPassing":"To graduate June",
-      "YearOfPassing":"2024",
+      "MonthOfPassing":"Graduating in June",
+      "YearOfPassing":"2025",
       "Achievements":"Completed various courses pertaining to software development: Introduction to Programming(Python), Computer Security (ISO27001), Database Technology(SQL), Object-oriented programming(Java), Discrete Mathematics, Object Oriented Analysis and Design(Java and UML), Linear Algebra(MatLab), Operating Systems(TypeScript and Multithreading), Software Design(UML), and Computer Networks(GNS3, http/TCP server)\n "
     },
     {
